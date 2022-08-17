@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:julioruizapp/vistas/palabras_app.dart';
+import 'package:vildermontalvan/vistas/palabras_app.dart';
 
 class LoginScreen extends StatefulWidget {
   @override
